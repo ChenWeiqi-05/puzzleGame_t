@@ -6,8 +6,8 @@ public class App {
     public static void main(String[] args) {
         new LogicJframe();
 
-        new GameJframe();
+       new GameJframe();
 
-        new RegisterJFrame();
+      new RegisterJFrame();
     }
 }

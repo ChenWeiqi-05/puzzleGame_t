@@ -4,10 +4,8 @@ import javax.swing.*;
 
 public class LogicJframe extends JFrame {
     public LogicJframe (){
-        this.setSize(488,430);
-
-        this.setTitle("拼图登录");
-
+        this.setSize(436, 483);
+        this.setTitle("拼图登录界面");
         this.setAlwaysOnTop(true);
         this.setLocationRelativeTo(null);
 

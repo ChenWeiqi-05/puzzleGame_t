@@ -8,7 +8,7 @@ public RegisterJFrame()
     this.setSize(488, 500);
 
 
-    this.setTitle("拼图注册");
+    this.setTitle("拼图注册界面");
 
     this.setAlwaysOnTop(true);
     this.setLocationRelativeTo(null);
