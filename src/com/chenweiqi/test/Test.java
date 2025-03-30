@@ -1,4 +1,4 @@
-package com.chenweiqi.ui;
+package com.chenweiqi.test;
 
 import java.util.Random;
 
@@ -17,17 +17,21 @@ public class Test {
         }
         System.out.println();
 
-        int[][] data = new int[4][4];
+    //    int[][] data = new int[4][4];
         for (int i = 0; i < tempArr.length; i++) {
-          data[i/4][i%4] =  tempArr[i];
+        //  data[i/4][i%4] =  tempArr[i];
 
-        }
-        for (int i = 0; i < data.length; i++) {
-            for (int j = 0; j < data.length; j++) {
-                System.out.print(data[i][j] + " ");
-            }
-            System.out.println();
-        }
+       }
+
+
+
+
+//        for (int i = 0; i < data.length; i++) {
+//            for (int j = 0; j < data.length; j++) {
+//                System.out.print(data[i][j] + " ");
+//            }
+//            System.out.println();
+//        }
 
 
     }

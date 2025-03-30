@@ -9,9 +9,9 @@ public class LogicJframe extends JFrame {
         this.setAlwaysOnTop(true);
         this.setLocationRelativeTo(null);
 
-
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
+        
         this.setVisible(true);
 
     }

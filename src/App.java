@@ -1,13 +1,16 @@
 import com.chenweiqi.ui.GameJframe;
-import com.chenweiqi.ui.LogicJframe;
-import com.chenweiqi.ui.RegisterJFrame;
+import com.chenweiqi.ui.gameJframe2;
 
 public class App {
     public static void main(String[] args) {
-        new LogicJframe();
+      //  new LogicJframe();
 
-       new GameJframe();
+   new gameJframe2();
+//     new GameJframe();
 
-      new RegisterJFrame();
+        //铃兰的爸爸曾经跟他说
+       // new Mouse_Test_GameJframe2() ;
+    //  new RegisterJFrame();
     }
+
 }
